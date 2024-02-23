@@ -6,6 +6,8 @@
  
  Controls: 
  Menu- Move Right = Right Arrow Key Move Left = Left Arrow Key Select = ENTER 
+
+ 
  Player 1 - 
     W = UP 
     S = DOWN 
